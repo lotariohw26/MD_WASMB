@@ -1,3 +1,2 @@
 - [REPL](https://webr.r-wasm.org/latest/)
-- [Shiny](https://shinylive.io/r/examples/)
-- webr::install("cli", repos = "https://lotariohw26.github.io/MD_WASMB/")
+- webr::install("cli", repos = "https://lotariohw26.github.io/MD_WASMC/")
