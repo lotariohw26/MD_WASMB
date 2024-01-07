@@ -4,10 +4,13 @@
 
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 3f57d2c3dc852fa943beb6c8fa337d0e6ad196d5
 - [REPL](https://webr.r-wasm.org/latest/)
 - webr::install("ManifoldDestinyWASMP", repos = "https://lotariohw26.github.io/MD_WASMC")
 - webr::install("ManifoldDestinyWASMD", repos = "https://lotariohw26.github.io/MD_WASMC")
